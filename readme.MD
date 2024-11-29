@@ -1,9 +1,9 @@
 Plugins:
 
-Pipeline stage view
-
-Pipeline Utility Steps
-
-AWS Credentials
-
-AWS Steps
+    Pipeline stage view
+    
+    Pipeline Utility Steps
+    
+    AWS Credentials
+    
+    AWS Steps
