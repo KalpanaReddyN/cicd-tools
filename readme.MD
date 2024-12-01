@@ -7,3 +7,7 @@ Plugins:
 * AWS Credentials
     
 * AWS Steps
+
+* Rebuild
+
+* Ansi Color
